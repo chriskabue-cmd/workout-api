@@ -3,6 +3,19 @@
 ## Description
 Backend API for managing workouts and exercises.
 
+## Project structure
+server/
+│
+├── app.py
+├── models.py
+├── schemas.py
+├── seed.py
+
+## Installation Instructions
+1. Clone the repository
+git clone https://github.com/chriskabue-cmd/workout-api.git
+cd workout-api
+
 ## Setup
 pipenv install
 pipenv shell
